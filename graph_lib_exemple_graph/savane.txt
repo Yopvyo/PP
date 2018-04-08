@@ -1,0 +1,13 @@
+16
+0 0 10 106 savane1.jpg
+1 0 234 15 savane2.jpg
+2 0 628 19 savane3.jpg
+3 0 324 339 savane4.jpg
+4 0 273 698 savane5.jpg
+5 0 398 698 savane6.jpg
+6 0 598 698 savane7.jpg
+7 0 748 370 savane8.jpg
+8 0 798 698 savane9.jpg
+9 0 49 268 savane10.jpg
+10 0 378 176 savane11.jpg
+11 0 750 177 savane12.jpg
